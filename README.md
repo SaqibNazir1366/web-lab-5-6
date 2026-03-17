@@ -1,7 +1,7 @@
 Web Technologies Lab 05 & 06
 
-Name: Yaseen Khan
-Reg ID: 24PWBCS1391
+Name: Saqib Ahmad
+Reg ID: 24PWBS1366
 
 This lab demonstrates CSS layout techniques including:
 
